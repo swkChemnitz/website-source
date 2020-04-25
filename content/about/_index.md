@@ -15,3 +15,8 @@ Unsere Gruppe ist vom [Manifest der Software-Handwerkskunst](https://manifesto.s
 Die Softwerkskammer Chemnitz wurde 2020 als Regionalgruppe des Netzwerks [softwerkskammer.org](https://softwerkskammer.org) gegründet.
 
 Vergangene Events findet ihr auch auf [YouTube](https://www.youtube.com/channel/UCEDy0x4rxgKHel3ciL06TAg/featured).
+
+## Über die Softwerkskammer
+
+Die [Softwerkskammer](https://www.softwerkskammer.org/) hat sich 2011 gegründet, um den Austausch Interessierter zum Thema Software Craftsmanship zu vereinfachen.
+Seitdem haben sich Communities in Deutschland, Österreich und der Schweiz entwickelt.
