@@ -1,0 +1,30 @@
+baseURL: 'https://swkChemnitz.github.io/'
+title: Softwerkskammer Chemnitz
+theme: ananke
+languageCode: "de-DE"
+publishDir: public
+
+MetaDataFormat: yaml
+DefaultContentLanguage: de
+SectionPagesMenu: main
+paginate: 10
+canonifyurls: true
+pygmentsstyle: friendly
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+enableRobotsTXT: true
+
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+  filename: sitemap.xml
+
+params:
+  background_color_class: bg-mid-gray
+  featured_image: /images/banner.jpg
+  recent_posts_number: 2
+  description: "Chemnitzer Regionalgruppe des Netzwerks softwerkskammer.org"
+  show_reading_time: true
+  github: https://github.com/swkChemnitz
+  youtube: https://www.youtube.com/channel/UCEDy0x4rxgKHel3ciL06TAg
+  meetup: https://www.meetup.com/de-DE/Softwerkskammer-Chemnitz
