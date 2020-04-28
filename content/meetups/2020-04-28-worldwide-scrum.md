@@ -9,3 +9,6 @@ Scrum ist allgegenwärtig in der Software-Welt, verteilte Teams ebenso. In einer
 “Großartig, irgendwann arbeitet immer jemand!“, könnte man da meinen — doch Moment — was bedeutet denn dann das “Daily Scrum”?
 Wann und wie organisiert man Meetings überhaupt? Welche Rolle spielen kulturelle Unterschiede? Kann das alles überhaupt (sinnvoll) funktionieren? Ein Erfahrungsbericht...
 
+## Slides
+
+{{< slideshare tI6CwZjD9zLN5P >}}
