@@ -14,3 +14,7 @@ Wann und wie organisiert man Meetings überhaupt? Welche Rolle spielen kulturell
 {{< slideshare tI6CwZjD9zLN5P >}}
 
 [Download Slides](/slides/2020-04-28_worldwide-scrum.pdf)
+
+## Recording
+
+{{< youtube xMYhmx0Ti2Y >}}
