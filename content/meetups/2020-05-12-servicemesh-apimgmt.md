@@ -15,4 +15,4 @@ Aus der Ecke der verteilten Cloud-native Applikationen kommen nun Service Meshes
 
 ## Recording
 
-Wird noch bereitgestellt
+{{< youtube EyUeBlPXjV0 >}}
