@@ -10,7 +10,9 @@ In diesem Meetup werden wir die wichtigsten Aspekte des API Produktdesigns disku
 
 ## Slides
 
- 
+{{< slideshare m3EQks9F8b3J3I >}}
+
+[Download Slides](/slides/2020-06-16-The-best-or-nothing.pdf) 
 
 ## Recording
 
