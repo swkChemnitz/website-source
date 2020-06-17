@@ -14,4 +14,4 @@ In diesem Meetup werden wir die wichtigsten Aspekte des API Produktdesigns disku
 
 ## Recording
 
- 
+{{< youtube uhDh-79tRAY >}}
