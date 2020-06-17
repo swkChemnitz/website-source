@@ -1,7 +1,7 @@
 +++
 title = ""The best or nothing!" - Was bedeutet das für dein API Produkt?"
 date = "2020-06-16T19:00:00+02:00"
-featured_image = "/images/mob-programming.jpeg"
+featured_image = "/images/APIOrNothingothing.JPG"
 +++
 
 Digitale Produktentwicklung ist in aller Munde und treibt ganze Organisationen an, ihr Geschäft um neue digitale Features zu erweitern. Neben der tollen User Experience eines Produktes, ist ebenso die API Developer Experience für den Produkterfolg entscheidend. 
