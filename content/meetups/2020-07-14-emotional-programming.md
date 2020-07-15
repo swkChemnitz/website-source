@@ -7,9 +7,7 @@ featured_image = "/images/EierköpfeK.jpg"
 Alle jammern und beschweren sich, die Qualität der Arbeit sinkt und keiner kann mehr den Sinn im Projekt erkennen. Böse Falle. Steht man erstmal im Sumpf der De-Motivation dauert es nicht mehr lange, bis man im Burnout versinkt. Und nun? Wie kann man in dieser Situation den Kopf über Wasser halten oder sich sogar wieder befreien? Wir gehen auf die Spuren von Münchhausens Zopf - nicht nur für Programmierer spannend.
 
 ## Slides
-{{< slideshare m3EQks9F8b3J3I >}}
-
-[Download Slides](/slides/2020-06-16-The-best-or-nothing.pdf) 
+{{< slideshare J6WNEdO91NbpwU >}}
 
 ## Recording
 {{< youtube YTLxYf1DDBU >}}
