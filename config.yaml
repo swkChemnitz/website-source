@@ -20,6 +20,7 @@ sitemap:
   filename: sitemap.xml
 
 params:
+  env: production
   background_color_class: bg-mid-gray
   featured_image: /images/banner.jpg
   recent_posts_number: 2
