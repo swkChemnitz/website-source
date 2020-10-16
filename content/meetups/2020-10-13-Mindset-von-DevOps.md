@@ -22,4 +22,4 @@ Lasst uns gemeinsam auf diese Fähigkeiten und Eigenschaften schauen und auch ei
 
 ## Recording
 
-{{< youtube JYgsxg9Z-YA&t >}}
+{{< youtube JYgsxg9Z-YA >}}
