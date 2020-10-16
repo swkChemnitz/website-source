@@ -4,24 +4,17 @@ date = "2020-04-28T19:00:00+02:00"
 featured_image = "/images/Unbenannt.JPG"
 +++
 
-Der State of DevOps Report ist eine jährliche Umfrage, die seit 2013 untersucht, wie sich DevOps verändert. Der Report liefert dabei einen wichtigen Leitfaden, wie wir uns selbst und unsere Teams weiter entwickeln können.
+Scrum ist allgegenwärtig in der Software-Welt, verteilte Teams ebenso. In einer globalisierten Welt mit international aufgestellten Unternehmen oder globalen Kooperationen umspannen Teams dabei auch schon mal den Globus…
 
-Auf Basis der Ergebnisse des State of DevOps Reports haben
-
-- Nicole Forsgren (Vice President bei github)
-- Jez Humble (DevOps Evangelist, Autor des DevOps Handbook)
-- Gene Kim (Autor von The Phoenix Project, The Unicorn Project und DevOps Handbook)
-
-über mehrere Jahre eine Auswertung gemacht und eine Reihe von Fähigkeiten und Eigenschaften identifiziert, die uns dabei unterstützen können, in unseren Teams bessere Ergebnisse zu erzielen. Ihre Ergebnisse haben die drei im Buch "Accelerate" zusammengefasst.
-
-Lasst uns gemeinsam auf diese Fähigkeiten und Eigenschaften schauen und auch einige eher überraschende Erkenntnisse aus dem Report diskutieren: Eigenschaften, die uns eher behindern oder scheinbar keinen Einfluss auf unsere Arbeit haben.
-
-Den Link zum Online Meetup stellen wir kurz vor der Veranstaltung zur Verfügung.
+“Großartig, irgendwann arbeitet immer jemand!“, könnte man da meinen — doch Moment — was bedeutet denn dann das “Daily Scrum”?
+Wann und wie organisiert man Meetings überhaupt? Welche Rolle spielen kulturelle Unterschiede? Kann das alles überhaupt (sinnvoll) funktionieren? Ein Erfahrungsbericht...
 
 ## Slides
 
-{{< slideshare AuILv8mXFMUdSI >}}
+{{< slideshare tI6CwZjD9zLN5P >}}
+
+[Download Slides](/slides/2020-04-28_worldwide-scrum.pdf)
 
 ## Recording
 
-{{< youtube JYgsxg9Z-YA&t >}}
+{{< youtube xMYhmx0Ti2Y >}}
