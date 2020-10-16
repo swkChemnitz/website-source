@@ -1,7 +1,7 @@
 +++
 title = "Intercultural Distributed Remote Scrum"
 date = "2020-04-28T19:00:00+02:00"
-featured_image = "/images/Unbenannt.JPG"
+featured_image = "/images/intercultural-remote-scrum.png"
 +++
 
 Scrum ist allgegenwärtig in der Software-Welt, verteilte Teams ebenso. In einer globalisierten Welt mit international aufgestellten Unternehmen oder globalen Kooperationen umspannen Teams dabei auch schon mal den Globus…
