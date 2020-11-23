@@ -14,8 +14,10 @@ Eberhard Wolff arbeitet als Fellow bei INNOQ und berät in dieser Funktion Kunde
 Architektur-Ansätzen - Cloud, Continuous Delivery, DevOps oder Microservices spielen oft eine Rolle. Er ist Autor von über hundert Artikeln und Büchern u.a. zu Microservices, 
 Microservice Technologien und Continuous Delivery.
 
-Slides
+## Slides
+
 [Download Slides](/slides/Wolff_WhyContinuousDeliveryDoesntWork.pdf)
 
-Recording
+## Recording
+
 {{< youtube qPC-XRhaoTk >}}
