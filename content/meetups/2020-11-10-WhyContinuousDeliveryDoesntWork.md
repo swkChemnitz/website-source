@@ -1,4 +1,8 @@
-+++ title = "Warum Continuous Delivery nicht funktioniert" date = "2020-11-10T19:00:00+02:00" featured_image = "/images/automotive-industry-4902396_1920t.jpg" +++
++++
+title = "Warum Continuous Delivery nicht funktioniert"
+date = "2020-11-10T19:00:00+02:00"
+featured_image = "/images/automotive-industry-4902396_1920t.jpg"
++++
 
 Zehn Jahre nach dem Erscheinen des Continuous-Delivery-Buchs versuchen viele Organisationen noch immer, Continuous-Delivery erfolgreich umzusetzen. In diesem Vortrag geht es darum,
 woran diese Vorhaben typischerweise scheitern, welche Herausforderungen konkret auftauchen und wie man sie lösen kann. Dabei stehen organisatorische, kulturelle und strategische 
