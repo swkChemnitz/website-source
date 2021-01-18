@@ -17,7 +17,7 @@ Ramon ist einer der Mitbegründer der Softwerkskammer Chemnitz, Java-Entwickler 
 
 ## Slides
 
-{{< slideshare ... >}}
+{{< slideshare  >}}
 
 ## Recording
 
