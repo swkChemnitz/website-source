@@ -15,10 +15,6 @@ Die Session wird von Ramon Anger gehalten.
 
 Ramon ist einer der Mitbegründer der Softwerkskammer Chemnitz, Java-Entwickler der ersten Stunde und begeisterter Software Architekt und Agilist.
 
-## Slides
-
-{{< slideshare  >}}
-
 ## Recording
 
 {{< youtube DUhz3iU2Q3s >}}
