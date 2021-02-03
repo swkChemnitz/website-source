@@ -4,7 +4,7 @@ date = "2021-02-02T19:00:00+02:00"
 featured_image = "/images/Titel_ARC.JPG"
 +++
 
-edes interessante Softwaresystem hat eine Softwarearchitektur. Diese ist kunstvoll geplant oder zufällig entstanden, meist aber irgendwas dazwischen. Hätte man es anders machen sollen?
+Jedes interessante Softwaresystem hat eine Softwarearchitektur. Diese ist kunstvoll geplant oder zufällig entstanden, meist aber irgendwas dazwischen. Hätte man es anders machen sollen?
 In diesem Impulsworkshop mit interaktiven Elementen erfahrt Ihr, wann und wie Ihr Eure Softwarearchitektur bewertet! Seid Ihr auf dem richtigen Weg? Können Eure Architekturideen in der Umsetzung aufgetretene Probleme effektiv lösen? Helfen diese bei der Erreichung Eurer Ziele oder behindern sie diese eher?
 Architekturbewertung kann Sicherheit schaffen und Risiken aufzeigen und damit helfen die Aufwände im Vorhaben zu fokussieren.
 Ihr lernt qualitative und quantitative Bewertungsmethoden kennen: Was argumentative, Workshop-basierte Verfahren wie ATAM leisten thematisieren wir ebenso wie welche Aspekte Eurer Architekturziele sich mit Messungen verknüpfen lassen.
